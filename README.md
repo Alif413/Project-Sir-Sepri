@@ -2,9 +2,7 @@
 Aplikasi GUI sederhana untuk mengkonversi **Desimal** ke **Biner** dan sebaliknya. Dibuat dengan Python, menggunakan tampilan modern berbasis `Tkinter`.
 
 ## 📸 Demo Highlights
-
-(! bisa ScreenShot)
-![Contoh Gambar]()
+[Screenshot 2025-05-31 213154](https://github.com/user-attachments/assets/96dfb1ca-b443-4707-9f91-ed6fdcccf338)
 
 ## ✨ Fitur
 - Pilih : Desimal ke Biner atau Biner ke Desimal.
